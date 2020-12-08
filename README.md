@@ -1,6 +1,8 @@
 # Wavelet Transform for Pytorch
 
-This package provides a differentiable Pytorch implementation of the Haar wavelet transform. 
+This package provides a differentiable Pytorch implementation of the Haar wavelet transform.
+
+![asdf](https://github.com/kellman/pytorch_wavelet/blob/main/figures/output.png)
 
 ## Usage
 
