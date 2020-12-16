@@ -8,3 +8,5 @@ if twine check dist/* ; then
     twine upload dist/* ;
   fi
 fi
+pip uninstall -y pytorch_wavelet ;
+pip install pytorch_wavelet ;

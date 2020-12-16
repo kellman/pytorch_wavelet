@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pytorch_wavelet',
-    version='1.0',
+    version='1.1',
     packages=['pytorch_wavelet'],
     author=['Michael Kellman'],
     author_email='michael.kellman@ucsf.edu',
