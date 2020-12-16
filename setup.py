@@ -9,5 +9,6 @@ setup(
     author_email='michael.kellman@ucsf.edu',
     license='BSD',
     long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
     install_requires=['torch>=1.7.0']
 )
